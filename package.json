@@ -1,11 +1,11 @@
 {
-  "name": "PhotogramServer",
+  "name": "FridgeworthyServer",
   "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/photogram/server"
+    "url": "https://github.com/jonoforbes/fridgeworthy-server"
   },
   "license": "MIT",
   "dependencies": {
